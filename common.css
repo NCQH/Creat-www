@@ -7,7 +7,7 @@ tr, td {
 }
 
 body {
-    background-image: ./tips-for-using-background-textures-in-web-design.jpg;
+    background-image: ulr("./tips-for-using-background-textures-in-web-design.jpg");
 }
 button {
     background-color: #4CAF50;
