@@ -1,3 +1,6 @@
+* {
+    overflow: hidden;
+}
 tr, td {
     border: 1px solid black;
     border-radius: 3px;
@@ -8,6 +11,7 @@ tr, td {
 
 body {
     background-image: url("tips-for-using-background-textures-in-web-design.jpg");
+    background-size: cover;
 }
 button {
     background-color: #4CAF50;
